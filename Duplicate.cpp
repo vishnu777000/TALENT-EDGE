@@ -17,7 +17,7 @@ int main() {
         }
         s.insert(x);
     }
-    if(f) cout<<"True"<<endl;
-    else cout<<"False"<<endl;
+    if(f) cout<<"False"<<endl;
+    else cout<<"True"<<endl;
     return 0;
 }
